@@ -78,7 +78,8 @@ I care about things that actually work *and* feel good to use — that's the thr
 
 ### Beyond the screen
 
-Speak English, Hindi, and Russian. Always down to collaborate on something that needs both good design instincts and someone who can actually ship it.
+I Speak English, Hindi, and Russian. 
+Always down to collaborate on something that needs both good design instincts and someone who can actually ship it.
 
 <p align="center">
   <sub>Open to opportunities · reach out via LinkedIn above</sub>
