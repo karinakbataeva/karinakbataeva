@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/karinabataeva/"><img src="https://img.shields.io/badge/LinkedIn-18221A?style=for-the-badge&logo=linkedin&logoColor=72C860"/></a>
-  <a href="https://github.com/kawrinaab"><img src="https://img.shields.io/badge/GitHub-18221A?style=for-the-badge&logo=github&logoColor=72C860"/></a>
+  <a href="https://github.com/karinakbataeva"><img src="https://img.shields.io/badge/GitHub-18221A?style=for-the-badge&logo=github&logoColor=72C860"/></a>
 </p>
 
 ---
@@ -36,7 +36,7 @@ I care about things that actually work *and* feel good to use — that's the thr
 | Project | What it does | Tracks | Stack |
 |---|---|---|---|
 | **[CitySafe](https://www.figma.com/proto/RxhNi03uIPPL8psIgzfVPV/--UXcore?node-id=0-1&t=5grNdwoOrC5Q0iOa-1)** | UX/UI safety app — full interactive prototype | Product & UX | Figma |
-| **[Tetris in C++](https://kawrinaab.github.io/Tetris-cpp/)** | Classic Tetris built from scratch — collision detection, row clearing, full game state, playable in-browser | Engineering | C++, Raylib |
+| **[Tetris in C++](https://sid0229.github.io/Cpp-Tetris-Game-with-raylib/))** | Classic Tetris built from scratch — collision detection, row clearing, full game state, playable in-browser | Engineering | C++, Raylib |
 | **[JalDrishti](https://jal-drishti-six.vercel.app/)** | Web platform for water visibility and awareness, built collaboratively | Engineering | Web, Vercel |
 | **[Hackathon Portfolio](https://sk-magical-portfolio.vercel.app/)** | Combined portfolio site built under hackathon time pressure | Engineering · Product & UX | Web |
 
@@ -70,8 +70,8 @@ I care about things that actually work *and* feel good to use — that's the thr
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kawrinaab&show_icons=true&theme=tokyonight&hide_border=true&bg_color=18221A&title_color=72C860&icon_color=72C860&text_color=CDE8C5" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kawrinaab&theme=tokyonight&hide_border=true&background=18221A&ring=72C860&fire=72C860&currStreakLabel=72C860" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=karinakbataeva&show_icons=true&theme=tokyonight&hide_border=true&bg_color=18221A&title_color=72C860&icon_color=72C860&text_color=CDE8C5" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karinakbataeva&theme=tokyonight&hide_border=true&background=18221A&ring=72C860&fire=72C860&currStreakLabel=72C860" height="165"/>
 </p>
 
 ---
